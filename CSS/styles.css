@@ -44,7 +44,7 @@ h3{
 p {
   line-height: 2;
 }
-.web {
+.Web {
   text-decoration: underline;
 }
 .top-cloud{
@@ -58,7 +58,7 @@ p {
   bottom: 300px;
 }
 .web-img {
-  width: 25%;
+  width: 40%;
   float: right;
   margin-left: 30px;
 }
@@ -67,13 +67,13 @@ p {
   float: left;
   margin-right: 30px;
 }
-.intro {
+.inro {
   width: 10%;
   margin: auto;
 
 }
 hr{
-  border: dotted #eaf6f6 6px;
+  border: dotted #808080 6px;
   border-bottom: none;
   width: 4%;
   margin:100px auto ;
@@ -121,4 +121,10 @@ a:hover {
   color :#eaf6f6;
   font-size: 0.75rem;
   padding: 20px 0px;
+}
+.mnt{
+  width: 25rem;
+}
+.fawaaz-img{
+  width: 15rem;
 }
