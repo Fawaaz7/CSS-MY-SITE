@@ -1,25 +1,25 @@
-body{
-  margin : 0;
-  font-family: 'Merriweather', serif;
+body {
+  margin: 0;
+  font-family: "Merriweather", serif;
   text-align: center;
   color: #40514e;
 }
-h1{
+h1 {
   font-size: 5.625rem;
   margin: 50px auto 0 auto;
-  font-family: 'Sacramento', cursive;
-  color: #66BFBF;
+  font-family: "Sacramento", cursive;
+  color: #66bfbf;
 }
-h2{
-  font-family: 'Montserrat', sans-serif;
-  color: #66BFBF;
+h2 {
+  font-family: "Montserrat", sans-serif;
+  color: #66bfbf;
   font-weight: normal;
   font-size: 2.5rem;
   padding-bottom: 10px;
 }
-h3{
-  font-family: 'Montserrat', sans-serif;
-  color: #11999E;
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #11999e;
 }
 .top-container {
   background-color: #e4f9f5;
@@ -28,18 +28,15 @@ h3{
 }
 .middle-container {
   margin: 100px 0;
-
 }
-.bottom-container{
-  background-color: #66BFBF;
-  padding: 50px 0 20px ;
-
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
 }
-.skill-row{
+.skill-row {
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
-  
 }
 p {
   line-height: 2;
@@ -47,7 +44,7 @@ p {
 .Web {
   text-decoration: underline;
 }
-.top-cloud{
+.top-cloud {
   position: absolute;
   right: 400px;
   top: 50px;
@@ -69,13 +66,12 @@ p {
 }
 .intro {
   margin: auto;
-
 }
-hr{
+hr {
   border: dotted #808080 6px;
   border-bottom: none;
   width: 4%;
-  margin:100px auto ;
+  margin: 100px auto;
 }
 .cnt-msg {
   width: 40%;
@@ -107,9 +103,9 @@ hr{
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
-a{
-  color: #11999E;
-  font-family: 'Montserrat', sans-serif;
+a {
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
   margin: 10px 20px;
   text-decoration: none;
 }
@@ -117,13 +113,13 @@ a:hover {
   color: #eaf6f6;
 }
 .copyright {
-  color :#eaf6f6;
+  color: #eaf6f6;
   font-size: 0.75rem;
   padding: 20px 0px;
 }
-.mnt{
+.mnt {
   width: 25rem;
 }
-.fawaaz-img{
+.fawaaz-img {
   width: 15rem;
 }
